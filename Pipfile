@@ -13,6 +13,7 @@ matplotlib = "*"
 jupyter = "*"
 ipykernel = "*"
 appnope = "*"
+keras = "*"
 
 [dev-packages]
 
